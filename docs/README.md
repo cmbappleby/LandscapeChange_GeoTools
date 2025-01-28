@@ -1,3 +1,6 @@
+>[!NOTE]
+>This repository is an archive because it was developed for the [North Coast and Cascades Network](https://www.nps.gov/im/nccn/landscape.htm), and they have not published the code yet.
+
 # Landscape Change Geoprocessing Tools
 
 The following geoprocessing tools in LandscapeChange.atbx support the Landscape Change protocol workflow:
